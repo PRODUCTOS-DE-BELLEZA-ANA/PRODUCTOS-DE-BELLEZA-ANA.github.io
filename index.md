@@ -22,4 +22,3 @@ PRODUCTOS PARA EL CUIDADO DE TU CABELLO
 .PROTECTOR SOLAR
 . ENTRE OTROS PRODUCTOS MAS 
 
-(https://super.walmart.com.mx/higiene-y-belleza/cosmeticos/labiales/_/cat120309)
