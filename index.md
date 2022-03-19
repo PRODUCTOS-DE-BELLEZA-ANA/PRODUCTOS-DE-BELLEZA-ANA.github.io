@@ -1,7 +1,7 @@
 ## PRODUCTOS DE BELLEZA
 
 # BIENVENIDOS SEAN TODOS
-Mi nombre es Pablo Ordoñez Ana Karen soy del Estado de Mexico, te ofrcemos hasta tu domicilio PRODUCTOS DE BELLEZA DE ALTA CALIDAD 
+Mi nombre es Pablo Ordonez Ana Karen soy del Estado de Mexico, te ofrcemos hasta tu domicilio PRODUCTOS DE BELLEZA DE ALTA CALIDAD 
                     
 [Inicio](index.md)  [Productos y precios](PRECIOS.md)  [Productos para el rostro](PRODUCTOS-DE-BELLEZA-PARA-EL-ROSTRO.md)  [CONTACTENOS](contacto.md)
 
