@@ -36,7 +36,7 @@ CODIGO QR DE MI WHATSAPP CONTACTO
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Domicilio"><br>
 <label for name="name"> Nombre:</label><br>
-<input type="text" id="name" name="name" value="Tus nombres"><br>
+<input type="text" id="name" name="name" value="Correo de contacto"><br>
 <input type="sumbit" value="submit">
 </form>
   
