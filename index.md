@@ -5,7 +5,8 @@
 
                   MI NOMBRE ES PABLO ORDONEZ ANA KAREN SOY DEL ESTADO DE MEXICO, TE OFRECEMOS HASTA TU DOMICILIO PRODUCTOS DE BELLEZA DE ALTA CALIDAD 
                     
-[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos de belleza para el rostro](PRODRUCTOS-DE-BELLEZA-ANA.md) [CONTACTENOS](contacto.md)
+[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos de belleza para el rostro](PRODRUCTOS-DE-BELLEZA-ANA.md) [CONTACTENOS](contacto.md) [Productos para el rostro](PRODUCTOS-DE-BELLEZA-PARA-EL-ROSTRO.md)
+
 
 ## TE OFRECEMOS
 - LABIALES
@@ -24,7 +25,6 @@
 - PROTECTOR SOLAR
 - ENTRE OTROS PRODUCTOS MAS 
 
-(https://github.com/PRODUCTOS-DE-BELLEZA-ANA/PRODUCTOS-DE-BELLEZA-ANA.github.io/blob/gh-pages/PRODUCTOS-DE-BELLEZA-PARA-EL-ROSTRO.md)
 
 
 
