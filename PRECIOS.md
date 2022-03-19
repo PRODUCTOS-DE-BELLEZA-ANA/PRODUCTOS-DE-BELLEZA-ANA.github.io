@@ -1,5 +1,7 @@
 ## Productros y precios
 
+[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos de belleza para el rostro](PRODRUCTOS-DE-BELLEZA-EL-ROSTRO.md) [CONTACTENOS](contacto.md)
+
 En esta lista te mostramos los siquientes productos asi como su precio
 
 - LABIALES.............................30$
