@@ -1,3 +1,9 @@
+## Centro de ayuda
+
+
+[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos de belleza para el rostro](PRODRUCTOS-DE-BELLEZA-EL-ROSTRO.md) [CONTACTENOS](contacto.md)
+
+
 CONTACTANOS:
 5520581634
 5545826718
@@ -17,9 +23,9 @@ CODIGO QR DE MI WHATSAPP CONTACTO
 FACEBOOK: ana_belleza_
 
 <form>
-  <label for name="name"> Nombre:</label><br>
-  <input type="text" id="name" name="name" value="Tus nombres"><br>
-  <label for="lname">Apellidos:</label><br>
-  <input type="text" id="lname" name="lname" value="Apellidos"><br>
-  </form>
+<label for name="name"> Nombre:</label><br>
+<input type="text" id="name" name="name" value="Tus nombres"><br>
+<label for="lname">Apellidos:</label><br>
+<input type="text" id="lname" name="lname" value="Apellidos"><br>
+</form>
   
