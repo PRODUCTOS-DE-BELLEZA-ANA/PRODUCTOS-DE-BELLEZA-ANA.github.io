@@ -1,6 +1,6 @@
 ## Productros y precios
 
-[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos para el rostro](PRODUCTOS-DE-BELLEZA-PARA-EL-ROSTRO.md)  [CONTACTENOS](contacto.md)
+[Inicio](index.md)  [Productos y precios](PRECIOS.md)  [Productos para el rostro](PRODUCTOS-DE-BELLEZA-PARA-EL-ROSTRO.md)  [CONTACTENOS](contacto.md)
 
 
 En esta lista te mostramos los siquientes productos asi como su precio
