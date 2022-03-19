@@ -1,6 +1,7 @@
 ## Productros y precios
 
-[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos de belleza para el rostro](PRODRUCTOS-DE-BELLEZA-ANA.md) [CONTACTENOS](contacto.md)
+[Inicio](index.md)  [Precios](PRECIOS.md)  [Productos de belleza para el rostro](PRODRUCTOS-DE-BELLEZA-ANA.md) [CONTACTENOS](contacto.md) [Productos para el rostro](PRODUCTOS-DE-BELLEZA-PARA-EL-ROSTRO.md)
+
 
 En esta lista te mostramos los siquientes productos asi como su precio
 
