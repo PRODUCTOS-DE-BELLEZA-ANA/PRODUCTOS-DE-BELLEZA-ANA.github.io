@@ -28,7 +28,7 @@ CODIGO QR DE MI WHATSAPP CONTACTO
 
 ## Pedidos a domicilio
 
-<form action="/actio_page.php">
+<form action="/action_page.php">
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
 <label for="lname">Apellidos:</label><br>
