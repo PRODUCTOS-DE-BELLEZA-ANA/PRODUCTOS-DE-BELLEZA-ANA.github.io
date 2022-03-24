@@ -28,7 +28,7 @@ CODIGO QR DE MI WHATSAPP CONTACTO
 
 ## Pedidos a domicilio
 
-<form action="https://Formspree.io/f/xvolqejr">
+<form action="https://Formspree.io/f/xvolqejr" method="POST">
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
 <label for="lname">Apellidos:</label><br>
