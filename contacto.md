@@ -39,4 +39,4 @@ CODIGO QR DE MI WHATSAPP CONTACTO
 <input type="text" id="name" name="name" value="Correo de contacto"><br>
 <input type="submit" value="submit">
 </form>
-  
+  M
